@@ -1,0 +1,1 @@
+this repository have the second day exercises of C from HOlberton Colombia

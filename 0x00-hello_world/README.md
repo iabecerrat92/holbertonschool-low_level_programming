@@ -1,0 +1,1 @@
+This folder has a exewrcices of the first C lines of code

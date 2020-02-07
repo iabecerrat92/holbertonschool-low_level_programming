@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main ()
+{
+char A = [:lower:]
+	for(A = 'a' ; a <= 'z'; A++)
+		putchar(a);
+
+return (0);
+}

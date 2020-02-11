@@ -1,16 +1,17 @@
 #include "holberton.h"
 /**
- * print Holberton
+* print Holberton
  */
 
-int main(void)
-{
-char *prints = "Holberton\n";
+int main (void)
 
-while (*prints)
+{
+char *hb = "Holberton\n";
+
+while (*hb)
   {
-_putchar(*prints);
-prints++;
+_putchar(*hb);
+hb++;
 }
 return (0);
 }

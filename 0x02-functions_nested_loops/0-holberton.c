@@ -1,18 +1,16 @@
-#include<holberton.h>
+#include "holberton.h"
+/**
+ * print Holberton
+ */
 
-int main
+int main(void)
 {
-{
-_putchar('H');
-_putchar('o');
-_putchar('l');
-_putchat('b');
-_putchar('e');
-_putchar('r');
-_putchar('t');
-_putchar('o');
-_putchar('n');
+char *prints = "Holberton\n";
+
+while (*prints)
+  {
+_putchar(*prints);
+prints++;
 }
-_putchar('\n');
 return (0);
 }
